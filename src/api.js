@@ -3,7 +3,7 @@ const GetJobs = () => {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '0a83db6b8fmsh7ba7ea08a0d83e4p1fa8bajsn9f10a557064a',
+            'X-RapidAPI-Key': '2a0d554d26msh87bc160abec0f9ep1dc4a9jsn11cd169b16a3',
             'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
         }
     };
